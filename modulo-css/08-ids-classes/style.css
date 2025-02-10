@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#descricao-pc, #descricao-videogamer {
+    background-color: orange;
+}
+
+.descricao-produto {
+    background-color: aqua;       
+}
+
+.promocao {
+    border: 5px solid springgreen;
+}
