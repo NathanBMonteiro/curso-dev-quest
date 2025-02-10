@@ -1,0 +1,14 @@
+@charset "UTF8";
+
+h1 {
+    background-color: chartreuse;
+}
+
+h2 {
+    background-color: chocolate;
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 20px;
+}
